@@ -81,9 +81,11 @@ Resultats
 Figure 9 : Résultat de test.
 
 ![image](https://github.com/user-attachments/assets/d3b487b6-5124-4f24-8091-e7bd447755c2)
+
 Figure 10 : Résultat de test.
 
 ![image](https://github.com/user-attachments/assets/c875c177-fbdd-4a21-928d-47e643a971bc)
+
 Figure 11 : Résultat de test.
 
 ![image](https://github.com/user-attachments/assets/ff584d1e-0497-48fa-87d7-07fd81109d0b)
