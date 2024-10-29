@@ -88,8 +88,13 @@ Figure 10 : Résultat de test.
 
 Figure 11 : Résultat de test.
 
-![image](https://github.com/user-attachments/assets/ff584d1e-0497-48fa-87d7-07fd81109d0b)
+![WhatsApp Image 2024-10-29 à 13 55 33_78095468](https://github.com/user-attachments/assets/2d14e00d-20eb-4cef-b5d6-874c7b2cfbed)
+
 Figure 12 : Résultat de test.
+
+
+
+
 
 
 
