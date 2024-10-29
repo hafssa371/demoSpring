@@ -92,6 +92,11 @@ Figure 11 : Résultat de test.
 
 Figure 12 : Résultat de test.
 
+![image](https://github.com/user-attachments/assets/07052a38-59a5-46e5-9502-e82d51c62331)
+
+Figure 13 : Résultat de test.
+
+
 
 
 
